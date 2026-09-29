@@ -1,5 +1,24 @@
 [
   {
+    "id": "virtual-assistants-agency-hub-telegram-20260929-1",
+    "title": "Rust Language News & Updates",
+    "platform": "Telegram",
+    "category": "Systems Programming",
+    "memberCount": "32,000+ members",
+    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
+    "joinUrl": "https://t.me/rust_lang_news",
+    "tags": [
+      "rust",
+      "telegram",
+      "systems",
+      "updates"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-29"
+  },
+  {
     "id": "virtual-assistants-agency-hub-discord-20260927-1",
     "title": "Rust Programming Language Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-27"
   },
   {
