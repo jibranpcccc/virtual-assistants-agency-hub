@@ -1,5 +1,24 @@
 [
   {
+    "id": "global-virtual-assistants-remote-operations-hub-reddit-3",
+    "title": "r/remotework Telecommuting & Culture",
+    "platform": "Reddit",
+    "category": "Remote Work",
+    "memberCount": "190,000+ members",
+    "description": "Remote team communication frameworks, async Loom management, time tracking software, and ergonomics.",
+    "joinUrl": "https://www.reddit.com/r/remotework/",
+    "tags": [
+      "remotework",
+      "telework",
+      "async",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "global-virtual-assistants-remote-operations-hub-reddit-2",
     "title": "r/VirtualAssistantJobs Remote Contracts",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -625,24 +644,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "global-virtual-assistants-remote-operations-hub-reddit-3",
-    "title": "r/remotework Telecommuting & Culture",
-    "platform": "Reddit",
-    "category": "Remote Work",
-    "memberCount": "190,000+ members",
-    "description": "Remote team communication frameworks, async Loom management, time tracking software, and ergonomics.",
-    "joinUrl": "https://www.reddit.com/r/remotework/",
-    "tags": [
-      "remotework",
-      "telework",
-      "async",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "global-virtual-assistants-remote-operations-hub-reddit-4",
